@@ -8,4 +8,4 @@ Only for self-education on C programming language and git. Also it can be helpfu
 It's simple. Just go for the folder of needed part and take a look for solution
 
 # Which book have been used for learn?
-"C How to program" by H.M. Deitel & P.J. Deitel (Secenth edition, Russian translation by BINOM)
+"C How to program" by H.M. Deitel & P.J. Deitel (Seventh edition, Russian translation by BINOM)
