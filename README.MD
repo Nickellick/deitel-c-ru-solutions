@@ -1,5 +1,5 @@
 # What is this repository about?
-This repository includes solutions for task and excercises, included in book "C How to program" by Deitel
+Tasfdhis repository includes solutions for task and excercises, included in book "C How to program" by Deitel
 
 # Why do I need it?
 Only for self-education on C programming language and git. Also it can be helpful if you stucked at some point and need some "sneak-peek" for solution
